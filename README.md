@@ -1,4 +1,4 @@
 # Individuell - Personlig Journal
 
-Johanna Hörnell 
-länk till själva repositoriet
+- Johanna Hörnell 
+[Repository](https://pages.github.com/)
