@@ -1,5 +1,5 @@
-# Individuell - Personlig Journal
+# Individuell 1 - Journal
 
-## Johanna Hörnell 
+### Johanna Hörnell 
 
 [Repository](https://github.com/johannahornell/journal)
