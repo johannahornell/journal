@@ -2,4 +2,4 @@
 
 \- Johanna Hörnell 
 
-[Repository](https://pages.github.com/)
+[Repository](https://github.com/johannahornell/journal)
